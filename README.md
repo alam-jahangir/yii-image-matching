@@ -1,3 +1,4 @@
+<h2 align="left">Custom Requirements</h2><br />
 <p align="left">
     <h2 align="left">Used Technology and Requirements</h2><br />
     <p>1. Yii 2 ( For check Yii2 requirements: http://localhost/requirements.php or php requirements.php)</p>
@@ -18,7 +19,9 @@
     <p>Note: You can run project by use the command  "php yii serve" or configure virtual host or browse root directory:http://localhost/root_directory/web/</p>
     <br />
 </p>
-
+<h2 align="left">End Custom Requirements</h2><br />
+<hr />
+<hr />
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
